@@ -530,7 +530,7 @@ export default function App() {
                       disabled={isLoading}
                       className="bg-gradient-to-r from-yellow-700 to-yellow-600 hover:from-yellow-600 hover:to-yellow-500 text-black font-bold px-8 font-pixel transition-all disabled:opacity-50 disabled:cursor-not-allowed"
                    >
-                       >
+                       ➡️
                    </button>
                </div>
           </div>
